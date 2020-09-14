@@ -1,7 +1,8 @@
 # Vim Alt MacOS
 
-Alt mapping will print special character `(¡™£¢∞...)` under MacOS by default.
-This plugin remap all these keys.
+Usage:
+- First, change alt to esc in terminal config (such as `item`)
+- Then, make it work!
 
 
 ## Install (Vim-Plug)
