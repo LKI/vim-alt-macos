@@ -13,16 +13,16 @@ map • <A-8>
 map ª <A-9>
 map º <A-0>
 
-map ⁄ <A-S-0>
-map € <A-S-1>
-map ‹ <A-S-2>
-map › <A-S-3>
-map ﬁ <A-S-4>
-map ﬂ <A-S-5>
-map ‡ <A-S-6>
-map ° <A-S-7>
-map · <A-S-8>
-map ‚ <A-S-9>
+map ⁄ <A-!>
+map € <A-@>
+map ‹ <A-#>
+map › <A-$>
+map ﬁ <A-%>
+map ﬂ <A-^>
+map ‡ <A-&>
+map ° <A-*>
+map · <A-(>
+map ‚ <A-)>
 
 map å <A-a>
 map ∫ <A-b>
